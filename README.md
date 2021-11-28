@@ -4,7 +4,6 @@
 - 📫 How to reach me at github
 - Learning Networking Essentials
 - Learing CCNA
-- 
 
 <!---
 shashikumarc221/shashikumarc221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
